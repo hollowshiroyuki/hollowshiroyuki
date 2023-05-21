@@ -1,16 +1,19 @@
-### Hi there 👋
+## hello ! I'm hollow 👋
 
-<!--
-**hollowshiroyuki/hollowshiroyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a big fan of free software (as in freedom) and a lot varied topics
 
-Here are some ideas to get you started:
+*you'll find here academic and old personal projects, you can find my new projects on https://sr.ht/~hollow*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### stuff i know
+<p align=center>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?theme=light&i=ansible,arduino,aws,c,cpp,css,html,js,kotlin,powershell,py,regex,ts">
+</a>
+</p>
+
+### stuff i use
+<p align=center>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?theme=light&i=activitypub,bash,blender,discord,docker,fediverse,git,godot,linux,neovim,stackoverflow,vscode">
+</a>
+</p>
