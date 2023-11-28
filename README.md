@@ -17,3 +17,6 @@ i'm a big fan of free software (as in freedom) and a lot varied topics
 <img src="https://skillicons.dev/icons?theme=light&i=activitypub,bash,blender,discord,docker,fediverse,git,godot,linux,neovim,stackoverflow,vscode">
 </a>
 </p>
+
+---
+<p align="center"><img src="https://moe-counter.glitch.me/get/@hollow"></p>
