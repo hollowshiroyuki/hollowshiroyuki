@@ -1,8 +1,10 @@
-## hello ! I'm hollow 👋
+## hello ! i'm hollow 👋
 
 i'm a big fan of free software (as in freedom) and a lot varied topics
 
-*you'll find here academic and old personal projects, you can find my new projects on https://sr.ht/~hollow*
+i don't really like microsoft/github supremacy so i try to get some repositories on source hut as well https://sr.ht/~hollow
+
+> My current obsession is Godot, it's native support for Wayland, virtual reality and blender.
 
 ### stuff i know
 <p align=center>
